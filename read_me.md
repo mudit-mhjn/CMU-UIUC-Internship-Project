@@ -20,4 +20,4 @@ Input layer consists of Xm neurons and output layer consist of two neuron.
 - Tracking of object has various applications in different fileds of study.
 
  Video tracking is the process of locating a moving object (or multiple objects) over time using a camera. It has a variety of uses, some of which are: human-computer interaction, security and surveillance, video communication and compression, augmented reality, traffic control, medical imaging and video editing.
- 
+ ![](track.gif)
